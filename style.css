@@ -1,0 +1,38 @@
+main {
+  color: #222;
+  font-family: 'Josefin Sans', sans-serif;
+ 
+}
+blockquote {
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  background: #222;
+  height: auto;
+
+} 
+blockquote::before{
+  content: '”';
+  font-size:70px;
+}
+.focim {
+  
+}
+
+.doltfocim {
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+.nagybetus {
+  text-transform: uppercase;
+}
+img {
+ // width:100%;
+}
+li {
+  list-style: square;
+}
+ 
+.personalint {
+  border-top: 5px solid black;
+  padding-top: 20px;
+}
